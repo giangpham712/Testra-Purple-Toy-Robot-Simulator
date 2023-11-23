@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TelstraPurple.ToyRobotSimulator": {
+      "commandName": "Project",
+      "commandLineArgs": "5,5 \"PLACE 4,4,EAST\" MOVE MOVE MOVE MOVE REPORT"
+    }
+  }
+}
